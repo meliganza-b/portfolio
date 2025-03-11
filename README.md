@@ -1,7 +1,10 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Organized and detail-oriented Executive Administrative Professional with a strong background in leadership, executive support, reporting, and process improvement. Experienced in managing schedules, coordinating reports, supporting high-level executives, and enhancing operational efficiency. Adept at using Microsoft Office (Excel, Word, PowerPoint), Power BI, and database management to streamline workflows and support decision-making.
+
+Whether coordinating executive schedules, improving workflows, or providing technical support, I bring a proactive and solutions-oriented approach to every role.
+
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -53,7 +56,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:me@gmail.com">melinda.a.brittonk@gmail.com</a></td>
+      <td><a href="mailto:me@gmail.com">me@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
