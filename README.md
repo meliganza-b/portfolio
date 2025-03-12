@@ -11,26 +11,32 @@ Whether coordinating executive schedules, improving workflows, or providing tech
 ## WHAT I DO
 
 **Data & Analysis**
+
 	• Report Generation & Data Analysis (Excel, Power BI)
 	• Data Visualization & Dashboard Creation (Power BI)
 	• SQL & Database Management (MySQL, SQL)
 	• Data Cleaning & Processing (Excel, Python - Basic)
+
 **Process & Workflow Optimization**
+
 	• Project Coordination & Process Improvement
 	• Workflow Optimization & Automation
+ 
 **Executive & Administrative Support**
+
 	• Executive & Administrative Support
 	• Calendar & Travel Management
 	• Event Planning & Coordination
+ 
 **Leadership & Operations**
+
 	• Team Leadership & Performance Management
 	• Customer Service & Conflict Resolution
+ 
 **Technical & Systems Support**
+
 	• Technical Support & Systems Administration
-
-
-
-
+ 
 <!--Section 2: List 3-4 key projects-->
 ## PROJECTS
 
@@ -79,15 +85,7 @@ Brief summary of project
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="mbritton_ cv version 3_draft.pdf">Download my CV</a></td>
     </tr>
   </tbody>
 </table>
