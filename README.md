@@ -10,13 +10,25 @@ Whether coordinating executive schedules, improving workflows, or providing tech
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+**Data & Analysis**
+	• Report Generation & Data Analysis (Excel, Power BI)
+	• Data Visualization & Dashboard Creation (Power BI)
+	• SQL & Database Management (MySQL, SQL)
+	• Data Cleaning & Processing (Excel, Python - Basic)
+**Process & Workflow Optimization**
+	• Project Coordination & Process Improvement
+	• Workflow Optimization & Automation
+**Executive & Administrative Support**
+	• Executive & Administrative Support
+	• Calendar & Travel Management
+	• Event Planning & Coordination
+**Leadership & Operations**
+	• Team Leadership & Performance Management
+	• Customer Service & Conflict Resolution
+**Technical & Systems Support**
+	• Technical Support & Systems Administration
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -27,26 +39,25 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Power Bi dashboard**
 ![image](prag example.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Brief summary of project
 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](link to live dashboard)
 
 **Fancy Excel**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](/)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Brief summary of project
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](link to live dashboard)
 
 **Fancy Powerpoint**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+Brief summary of project
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+[Read More](link to office 365)
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf"></a>
 
 
 ## CONTACT
