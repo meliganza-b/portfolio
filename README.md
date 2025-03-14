@@ -11,7 +11,6 @@ Whether coordinating executive schedules, improving workflows, or providing tech
 ## WHAT I DO
 
 **Data & Analysis**
-
 	• Report Generation & Data Analysis (Excel, Power BI)
 	• Data Visualization & Dashboard Creation (Power BI)
 	• SQL & Database Management (MySQL, SQL)
