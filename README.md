@@ -1,6 +1,5 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
-
 Organized and detail-oriented Executive Administrative Professional with a strong background in leadership, executive support, reporting, and process improvement. Experienced in managing schedules, coordinating reports, supporting high-level executives, and enhancing operational efficiency. Adept at using Microsoft Office (Excel, Word, PowerPoint), Power BI, and database management to streamline workflows and support decision-making.
 
 Whether coordinating executive schedules, improving workflows, or providing technical support, I bring a proactive and solutions-oriented approach to every role.
@@ -17,28 +16,23 @@ Whether coordinating executive schedules, improving workflows, or providing tech
 	• Data Cleaning & Processing (Excel, Python - Basic)
 
 **Process & Workflow Optimization**
-
 	• Project Coordination & Process Improvement
 	• Workflow Optimization & Automation
  
 **Executive & Administrative Support**
-
 	• Executive & Administrative Support
 	• Calendar & Travel Management
 	• Event Planning & Coordination
  
 **Leadership & Operations**
-
 	• Team Leadership & Performance Management
 	• Customer Service & Conflict Resolution
  
 **Technical & Systems Support**
-
 	• Technical Support & Systems Administration
  
 <!--Section 2: List 3-4 key projects-->
 ## PROJECTS
-
 *A glimpse of some of the projects I've been working on.*
 
 **Power Bi dashboard**
